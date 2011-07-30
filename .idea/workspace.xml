@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5773a0d-bd34-45f6-86b5-1544441aa35e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/features/see_messages.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Cucumber-book-exercises.iml" afterPath="$PROJECT_DIR$/.idea/Cucumber-book-exercises.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/app/assets/images/rails.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/app/mailers/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/app/models/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/doc/README_FOR_APP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/lib/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/lib/tasks/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/log/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/vendor/assets/stylesheets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/vendor/plugins/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/app/assets/javascripts/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/app/assets/stylesheets/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/app/controllers/application_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/app/helpers/application_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/app/views/layouts/application.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config.ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/application.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/boot.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/cucumber.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/database.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/environment.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/environments/development.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/environments/production.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/environments/test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/initializers/backtrace_silencers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/initializers/inflections.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/initializers/mime_types.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/initializers/secret_token.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/initializers/session_store.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/initializers/wrap_parameters.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/locales/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/config/routes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/db/seeds.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/features/step_definitions/web_steps.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/features/support/env.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/features/support/paths.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/features/support/selectors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/lib/tasks/cucumber.rake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/public/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/public/422.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/public/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/script/cucumber" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails/squeaker/script/rails" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Cucumber-book-exercises.iws" />
@@ -40,7 +87,7 @@
       <file leaf-file-name="see_messages.feature" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rails/squeaker/features/see_messages.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="67" selection-end="231" vertical-scroll-proportion="0.0528169">
+            <state line="6" column="7" selection-start="232" selection-end="232" vertical-scroll-proportion="0.15845071">
               <folding />
             </state>
           </provider>
@@ -352,7 +399,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.1 new rails project and enviroment" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -370,6 +417,7 @@
     <MESSAGE value="Gherkin basics and modifications to first taste" />
     <MESSAGE value="4.3" />
     <MESSAGE value="4.6" />
+    <MESSAGE value="8.1 new rails project and enviroment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -440,7 +488,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rails/squeaker/features/see_messages.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="67" selection-end="231" vertical-scroll-proportion="0.0528169">
+        <state line="6" column="7" selection-start="232" selection-end="232" vertical-scroll-proportion="0.15845071">
           <folding />
         </state>
       </provider>
