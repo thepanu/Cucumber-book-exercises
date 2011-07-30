@@ -10,3 +10,15 @@ end
 When /^I visit the page for the User$/ do
   visit(user_path(User.first))
 end
+
+Given /^I am Active User$/ do
+  @current_user = Factory(:user)
+end
+
+When /^I fill in (\w+) with "([^"]*)"$/ do |field, content|
+  fill_in(field, :with => content)
+end
+
+When /^I click Submit Button$/ do
+  click_button("Submit")
+end

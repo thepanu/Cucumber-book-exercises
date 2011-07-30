@@ -1,3 +1,10 @@
+<% if @user == @current_user %>
+    <%= form_for :message do |m| %>
+        <%= m.text_field :content, :name => "content"%>
+        <%= submit_tag :submit, :value => "Submit" %>
+        <% end %>
+<% end %>
+
 <% @user.messages.each do |message| %>
     <p><%= message.content %></p>
 <% end %>
