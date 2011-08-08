@@ -22,3 +22,7 @@ end
 When /^I click Submit Button$/ do
   click_button("Submit")
 end
+
+Then /^"([^"]*)" is saved to database$/ do |arg1|
+  Message.find_by_content(arg1)
+end

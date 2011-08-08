@@ -1,7 +1,15 @@
 Squeaker::Application.routes.draw do
-  resources :users do
-    post 'message'
-  end
+  #resources :users do
+  #  post 'message'
+  #end
+  resources :users
+  resources :messages
+
+
+
+
+
+
   #match ':controller/:action/:id'
   # The priority is based upon order of creation:
   # first created -> highest priority.

@@ -48,8 +48,8 @@
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.3.0, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.29, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.0, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cucumber-rails (v1.0.1, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v3.1.0.rc5, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-rails (v1.0.1, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v0.8.7, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="term-ansicolor (v1.0.6, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.15, RVM: ruby-1.9.2-rc2 [rails3]) [gem]" level="application" />
